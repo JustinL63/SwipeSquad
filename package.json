@@ -1,0 +1,22 @@
+{
+  "name": "swipesquad",
+  "version": "1.0.0",
+  "description": "A dating app with input from previous users",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinL63/SwipeSquad.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Justin G Lamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinL63/SwipeSquad/issues"
+  },
+  "homepage": "https://github.com/JustinL63/SwipeSquad#readme"
+}
